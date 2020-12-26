@@ -1,0 +1,2 @@
+C:\Users\Admin\Desktop\SunburstAnalysis\HashString\HashString\bin\publish\HashString.pdb
+C:\Users\Admin\Desktop\SunburstAnalysis\HashString\HashString\bin\publish\HashString.exe

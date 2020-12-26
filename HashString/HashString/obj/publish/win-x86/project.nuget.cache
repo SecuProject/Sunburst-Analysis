@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "wzr3u9Jmd8D3VDIeRBO4JA4s5CJ6WKbOjTmA1xvciKHTIKodtNzBQR1Bc6qcIyxnb5R9tHZKP/MsEESWa2KjWw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Admin\\Desktop\\SunburstAnalysis\\HashString\\HashString\\HashString.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Admin\\.nuget\\packages\\microsoft.netcore.app.runtime.win-x86\\3.1.10\\microsoft.netcore.app.runtime.win-x86.3.1.10.nupkg.sha512",
+    "C:\\Users\\Admin\\.nuget\\packages\\microsoft.windowsdesktop.app.runtime.win-x86\\3.1.10\\microsoft.windowsdesktop.app.runtime.win-x86.3.1.10.nupkg.sha512",
+    "C:\\Users\\Admin\\.nuget\\packages\\microsoft.aspnetcore.app.runtime.win-x86\\3.1.10\\microsoft.aspnetcore.app.runtime.win-x86.3.1.10.nupkg.sha512"
+  ],
+  "logs": []
+}
