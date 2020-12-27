@@ -1,7 +1,7 @@
 # 1. Sunburst Analysis
 
 - [1. Sunburst Analysis](#1-sunburst-analysis)
-  - [1.1. HASH SHA-256:](#11-hash-sha-256)
+  - [1.1. Sample HASH](#11-sample-hash)
 - [2. Analysis](#2-analysis)
   - [2.1. Entry Point](#21-entry-point)
   - [2.2. Backdoor Class](#22-backdoor-class)
@@ -33,7 +33,7 @@
 - [4. Source](#4-source)
 
 
-## 1.1. HASH SHA-256:
+## 1.1. Sample HASH
 
     SHA256  32519B85C0B422E4656DE6E6C41878E95FD95026267DAAB4215EE59C107D6C77 
     SHA1    76640508B1E7759E548771A5359EAED353BF1EEC 
